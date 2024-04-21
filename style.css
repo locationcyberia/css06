@@ -1,14 +1,20 @@
 .box-model {
+    /* rem conversion from 280px */
     width: 17.5rem;
     height: 17.5rem;
+    /* "white-smoke" hexidecimal color code */
     background-color: #f5f5f5;
+    /* rem conversion from 20px */
     margin-top: 1.25rem;
     margin-left: 1.25rem;
+    /* "black" hexidecimal color code & rem conversion from 2px */
     border: solid #000000 0.125rem;
+    /* rem conversion from 20px */
     border-radius: 1.25rem;
 }
 
 p {
+    /* rem conversion from 15px */
     padding-top: 0.938rem;
     padding-left: 0.938rem;
 }
